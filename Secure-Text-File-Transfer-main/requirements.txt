@@ -1,0 +1,13 @@
+python-flask
+tkinter
+webbrowser
+connection
+DH
+binascii
+os
+time
+base64
+hashlib
+pyscrypto
+secretsharing
+ssl
