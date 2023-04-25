@@ -1,5 +1,2 @@
-hashlib
-pycrypto
-secretsharing
-tkinter
-webbrowser
+pycryptodome==3.17
+secretsharing==0.2.6
