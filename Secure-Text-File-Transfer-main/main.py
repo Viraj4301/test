@@ -7,6 +7,7 @@ import DH
 
 #	OPEN FILE AND DIRECTORY
 
+server=app.server
 
 def openfileEnc():
 	filename = tkFileDialog.askopenfilename(initialdir = "/home/Viraj/Desktop",title = "Select file",filetypes = (("text files","*.txt"),("all files","*.*")))
