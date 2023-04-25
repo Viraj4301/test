@@ -1,0 +1,6 @@
+python
+hashlib
+pycrypto
+secretsharing
+tkinter
+webbrowser
